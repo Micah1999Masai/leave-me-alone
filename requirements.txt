@@ -4,4 +4,3 @@ tensorflow
 keras
 opencv-python
 matplotlib
-python mmseg/utils/collect_env.py
